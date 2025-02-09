@@ -1,3 +1,5 @@
 # First Change
 
-My First Change
+Adding an image:
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
